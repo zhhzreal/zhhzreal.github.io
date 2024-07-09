@@ -52,8 +52,8 @@ twitter_username: He Zhao
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Welcome! I am He Zhao, currently an incoming master student for the Department of Political Science, Tsinghua University.
-  I am interested in state theory, especially how ethnic problem shape the process of state formation. 
+  Welcome! I am He Zhao, currently an incoming master student in the Department of Political Science at Tsinghua University.
+  I am interested in state theory, particularly how ethnic problem shape the process of state formation. 
 
 content:
   - title: Education
