@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: He Zhao 赵赫
-#title: Your job title
+title: Political Science
 email: h-zhao20@mails.tsinghua.edu.cn
 # email_title: Email (Email title override)
 phone: +86 15849980084
@@ -64,8 +64,9 @@ content:
         sub_title: BA Political Science(with honor)
         caption: 2020 - 2024 
         quote: >
-          Dissertation: State Presence and Political Efficacy in Contemporary China. 
+          
         description: | # this will include new lines to allow paragraphs
+          Dissertation: State Presence and Political Efficacy in Contemporary China. 
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
